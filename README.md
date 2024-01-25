@@ -1,2 +1,2 @@
 # ProgramsForDDos
-Programas para hacer DoS
+Programas para hacer DDoS
